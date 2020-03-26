@@ -31,7 +31,7 @@
 
 👤 **Thaís Vieira Azevedo**
 
-- Github: [@thsvr](https://github.com/githubhandle)
+- Github: [@thsvr](https://github.com/thsvr)
 - Twitter: [@vr_ths](https://twitter.com/vr_ths)
 - Linkedin: [Thaís V.](https://www.linkedin.com/in/vr-ths-zd/)
 
