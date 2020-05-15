@@ -3,9 +3,7 @@
 > In this project, we built an app that imitates the basic function of Facebook. The SpyBook allows users to create posts, send friend requests, like posts and comments, comment on posts and recieve notifications.
 
 ![screenshot](docs/erd.jpeg)
-![screenshot](docs/spybook1.jpg)
-![screenshot](docs/spybook3.png)
-![screenshot](docs/spybook-mobile.jpg)
+![screenshot](docs/pics.jpg)
 
 ## Heroku Link: [Spy-Bookv2.com](https://spybook-v2.herokuapp.com/)
 
