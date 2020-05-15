@@ -20,7 +20,11 @@
 
 ### Installation
 
-* Download repository to your local machine, then run `bundle install` and run `rails db:setup`, `rails db:migrate`.
+* Download repository to your local machine, then run `bundle install` and run `rails db:setup`, `rails db:migrate` all within the terminal console.
+
+### Automated Testing with [RSPEC](https://github.com/rspec/rspec-rails)
+
+* Run `bundle exe rspec` within the terminal console after installing project repository.
 
 ## Authors
 
