@@ -30,13 +30,13 @@
 
 👤 **Aaron Rory**
 
-- Github: [@Aaron-RN](https://github.com/Aaron-RN)
+- GitHub: [@Aaron-RN](https://github.com/Aaron-RN)
 - Twitter: [@ARNewbold](https://twitter.com/ARNewbold)
 - Linkedin: [Aaron Newbold](https://www.linkedin.com/in/aaron-newbold-1b9233187/)
 
 👤 **Thaís Vieira Azevedo**
 
-- Github: [@thsvr](https://github.com/thsvr)
+- GitHub: [@thsvr](https://github.com/thsvr)
 - Twitter: [@vr_ths](https://twitter.com/vr_ths)
 - Linkedin: [Thaís V.](https://www.linkedin.com/in/vr-ths-zd/)
 
