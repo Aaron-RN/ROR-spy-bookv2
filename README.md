@@ -2,6 +2,8 @@
 
 > In this project, we built an app that imitates the basic function of Facebook. The SpyBook allows users to create posts, send friend requests, like posts and comments, comment on posts and recieve notifications.
 
+### [Link to an article explaining the creation process of this project](https://hackernoon.com/ruby-on-rails-facebook-implementation-spybook-d51gz3y9o)
+
 ![screenshot](docs/erd.jpeg)
 ![screenshot](docs/pics.jpg)
 
