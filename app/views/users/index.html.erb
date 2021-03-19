@@ -70,7 +70,7 @@
 
 <div class="card my-5 py-3 bg-light shadow">
     <h2 class="center pb-3 text-dark border-bottom">Other Users</h2> 
-    <% @users.each do |user|%> <!-- Shows all users friend requests has been sent to -->
+    <% @users.each do |user|%> <!-- Shows all users that friend requests can be sent to -->
       <% if current_user.id != user.id%><!-- Doesn't show current user on list -->
         <% unless possible_friend?(user) %> <!-- If user is not a friend and no request has been sent to or recieved from this user -->
           <div class="d-flex align-items-center mb-2 border-bottom pb-2">
